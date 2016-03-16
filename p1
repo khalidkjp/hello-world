@@ -1,0 +1,6 @@
+using system
+public class p1
+{
+console.writeline("hello");
+console.readkey();
+}
